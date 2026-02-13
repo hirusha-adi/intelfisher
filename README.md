@@ -1,4 +1,4 @@
-# IntelFisher | OSINT without the guesswork.
+# 🔍 IntelFisher | OSINT without the guesswork.
 
 ![alt text](images/1.png)
 
